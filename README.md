@@ -5,3 +5,7 @@ https://colab.research.google.com/drive/1IPBvDtafvIFXh3L9-g-YCxBIjE-Rif5C?usp=sh
 ## Lab Exercise 2: RAG Implementation Part-1
 
 https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sharing
+
+## Lab Exercise 3: RAG Implementation (Advanced Part)
+
+https://colab.research.google.com/drive/1jZK32_x1iPbT8uGm_H1c4ZNVd6AuqcqA?usp=sharing
