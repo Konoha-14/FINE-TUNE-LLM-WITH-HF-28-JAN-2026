@@ -13,3 +13,7 @@ https://colab.research.google.com/drive/1jZK32_x1iPbT8uGm_H1c4ZNVd6AuqcqA?usp=sh
 ## Lab Exercise 4- Understanding Transformers in LLMs
 
 https://colab.research.google.com/drive/1tamgLIFi_xY8u8sMwDGnAzrdZAoxYr3S?usp=sharing
+
+## Lab Exercise 5- Sequence-to-Sequence (Seq2Seq) Modelling
+
+https://colab.research.google.com/drive/1g4Nr1naP12IEFmcYazFLmOo98AIe_frG?usp=sharing
