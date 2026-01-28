@@ -9,3 +9,7 @@ https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sh
 ## Lab Exercise 3: RAG Implementation (Advanced Part)
 
 https://colab.research.google.com/drive/1jZK32_x1iPbT8uGm_H1c4ZNVd6AuqcqA?usp=sharing
+
+## Lab Exercise 4- Understanding Transformers in LLMs
+
+https://colab.research.google.com/drive/1tamgLIFi_xY8u8sMwDGnAzrdZAoxYr3S?usp=sharing
